@@ -1,0 +1,5 @@
+﻿  Sorting addresses.cpp
+D:\lesson\Abstraction and Encapsulation\Sorting addresses\Sorting addresses.cpp(17,36): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\lesson\Abstraction and Encapsulation\Sorting addresses\Sorting addresses.cpp(17,49): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\lesson\Abstraction and Encapsulation\Sorting addresses\Sorting addresses.cpp(17,85): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  Sorting addresses.vcxproj -> D:\lesson\Abstraction and Encapsulation\Sorting addresses\x64\Debug\Sorting addresses.exe
