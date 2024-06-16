@@ -1,0 +1,5 @@
+﻿  Figures. Sides and corners.cpp
+D:\lesson\inheritance and polymorphism\Figures. Sides and corners\Figures. Sides and corners.cpp(145,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "r"
+D:\lesson\inheritance and polymorphism\Figures. Sides and corners\Figures. Sides and corners.cpp(145,5): warning C4551: в вызове функции отсутствует список аргументов
+D:\lesson\inheritance and polymorphism\Figures. Sides and corners\Figures. Sides and corners.cpp(145,15): error C3861: r: идентификатор не найден
+D:\lesson\inheritance and polymorphism\Figures. Sides and corners\Figures. Sides and corners.cpp(146,5): error C2065: r: необъявленный идентификатор

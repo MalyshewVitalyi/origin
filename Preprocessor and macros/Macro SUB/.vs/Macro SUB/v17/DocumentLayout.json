@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesson\\Preprocessor and macros\\Macro SUB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0341239A-D17D-4E0D-A3B0-E55BDDCF5A24}|Macro SUB.vcxproj|D:\\lesson\\Preprocessor and macros\\Macro SUB\\Macro SUB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0341239A-D17D-4E0D-A3B0-E55BDDCF5A24}|Macro SUB.vcxproj|solutionrelative:Macro SUB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Macro SUB.cpp",
+              "DocumentMoniker": "D:\\lesson\\Preprocessor and macros\\Macro SUB\\Macro SUB.cpp",
+              "RelativeDocumentMoniker": "Macro SUB.cpp",
+              "ToolTip": "D:\\lesson\\Preprocessor and macros\\Macro SUB\\Macro SUB.cpp",
+              "RelativeToolTip": "Macro SUB.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T13:26:01.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
