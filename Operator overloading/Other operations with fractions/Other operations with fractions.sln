@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Other operations with fractions", "Other operations with fractions.vcxproj", "{E46AA8AD-0029-441C-A183-A141F79E3CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Debug|x64.ActiveCfg = Debug|x64
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Debug|x64.Build.0 = Debug|x64
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Debug|x86.ActiveCfg = Debug|Win32
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Debug|x86.Build.0 = Debug|Win32
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Release|x64.ActiveCfg = Release|x64
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Release|x64.Build.0 = Release|x64
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Release|x86.ActiveCfg = Release|Win32
+		{E46AA8AD-0029-441C-A183-A141F79E3CE3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA77EB7-7E39-4453-A5A7-B96781370C46}
+	EndGlobalSection
+EndGlobal

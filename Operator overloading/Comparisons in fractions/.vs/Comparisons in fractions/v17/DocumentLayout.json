@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesson\\Operator overloading\\Comparisons in fractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C751-7724-46B1-83DD-F199AC7D135D}|Comparisons in fractions.vcxproj|D:\\lesson\\Operator overloading\\Comparisons in fractions\\Comparisons in fractions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D32C751-7724-46B1-83DD-F199AC7D135D}|Comparisons in fractions.vcxproj|solutionrelative:Comparisons in fractions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comparisons in fractions.cpp",
+              "DocumentMoniker": "D:\\lesson\\Operator overloading\\Comparisons in fractions\\Comparisons in fractions.cpp",
+              "RelativeDocumentMoniker": "Comparisons in fractions.cpp",
+              "ToolTip": "D:\\lesson\\Operator overloading\\Comparisons in fractions\\Comparisons in fractions.cpp",
+              "RelativeToolTip": "Comparisons in fractions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T19:59:30.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

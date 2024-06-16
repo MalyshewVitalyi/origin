@@ -1,0 +1,3 @@
+﻿  Simple exception.cpp
+D:\lesson\Exceptions and Error Handling\Simple exception\Simple exception.cpp(9,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Simple exception.vcxproj -> D:\lesson\Exceptions and Error Handling\Simple exception\x64\Debug\Simple exception.exe
